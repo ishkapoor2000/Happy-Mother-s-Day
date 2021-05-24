@@ -1,6 +1,6 @@
 # Mother's Day Card in WebVR
 
->You can see the demo [here](https://happy-mothers-day.ishkapoor.repl.co/).
+>You can see the card [here](https://happy-mothers-day.ishkapoor.repl.co/).
 
 ![View in browser](captures/Capture.PNG)
 -
