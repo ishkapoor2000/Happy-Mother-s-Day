@@ -85,12 +85,6 @@ function animate() {
 	}
 	if (Mesh2 && Mesh2.rotation) {
 		Mesh2.rotation.y -= 0.000;
-		// if (Mesh2.rotation.y >= 0.007) {
-		// 	Mesh2.scale.set(25, 25, 25);
-		// }
-		// else {
-		// 	Mesh2.scale.set(10, 10, 10);
-		// }
 	}
 }
 
@@ -100,6 +94,7 @@ let renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setPixelRatio(window.devicePixelRatio);
 renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.xr.enabled = true;
+
 // Set animation loop
 renderer.setAnimationLoop(render);
 document.body.appendChild(renderer.domElement);
