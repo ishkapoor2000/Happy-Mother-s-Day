@@ -21,7 +21,7 @@ light.position.set(1, 1, 1).normalize();
 scene.add(light);
 scene.add(new THREE.AmbientLight(0xffffff, 1))
 	
-const texture = new THREE.TextureLoader().load('images/mom.jpeg');
+const texture = new THREE.TextureLoader().load('');  // Write the location of your image(s) in 'load()'
 const material = new THREE.MeshBasicMaterial({ map: texture });
 
 // Cube 1
