@@ -1,7 +1,6 @@
 # Mother's Day Card in WebVR
 
->You can see the Mother'day card [here](https://happy-mothers-day.ishkapoor.repl.co/).
->You can see the Father'day card [here](https://Happy-Fathers-Day.ishkapoor.repl.co).
+You can see the Father's day card [here](https://Happy-Fathers-Day.ishkapoor.repl.co), and the Mother's day card [here](https://happy-mothers-day.ishkapoor.repl.co/).
 
 ![View in browser](captures/Capture.PNG)
 -
