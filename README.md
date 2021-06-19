@@ -10,6 +10,6 @@ You can see the Father's day card [here](https://Happy-Fathers-Day.ishkapoor.rep
 -
 ![View in browser](captures/Capture10.png)
 -
-![View in VR](captures/Web capture_19-6-2021_22288_happy-fathers-day.ishkapoor.repl.co.jpeg)
+![View in VR](https://raw.githubusercontent.com/ishkapoor2000/Happy-Mother-s-Day/master/captures/Web%20capture_19-6-2021_22288_happy-fathers-day.ishkapoor.repl.co.jpeg)
 -
-![View in VR](captures/Web capture_19-6-2021_222734_happy-fathers-day.ishkapoor.repl.co.jpeg)
+![View in VR](https://raw.githubusercontent.com/ishkapoor2000/Happy-Mother-s-Day/master/captures/Web%20capture_19-6-2021_222734_happy-fathers-day.ishkapoor.repl.co.jpeg)
